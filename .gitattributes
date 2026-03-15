@@ -1,0 +1,10 @@
+literature/stochastic_calculus/Klebaner_F_C_Introduction_to_stochastic_alculus_with_applications_2ed_Imperial[[:space:]]College_2005 filter=lfs diff=lfs merge=lfs -text
+literature/stochastic_calculus/Medvegyev_P_Stochastic_integration_theory_2007 filter=lfs diff=lfs merge=lfs -text
+literature/stochastic_calculus/Stochastic_Calculus-An_Introduction_with_Applications_Lawler_2014.pdf filter=lfs diff=lfs merge=lfs -text
+literature/stochastic_calculus/Stochastic_Integration_with_jumps_Bichteler_2002.pdf filter=lfs diff=lfs merge=lfs -text
+literature/random_matrices/Introduction_to_Random_Matrices_Livan_2017.pdf filter=lfs diff=lfs merge=lfs -text
+literature/random_matrices/random_matrix_theory_Edelman_2005.pdf filter=lfs diff=lfs merge=lfs -text
+literature/random_matrices/Wigners_Semicircle_Law_for_Random_Matrices_Jiang_2021.pdf filter=lfs diff=lfs merge=lfs -text
+literature/brownian_motion/2016_Brownian_Motion_Martingales_and_Stochastic_Calculus_LeGalle.pdf filter=lfs diff=lfs merge=lfs -text
+literature/brownian_motion/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf filter=lfs diff=lfs merge=lfs -text
+literature/brownian_motion/Diffusion_Processes_and_Stochastic_Calculus_Boudoin_2019.pdf filter=lfs diff=lfs merge=lfs -text
