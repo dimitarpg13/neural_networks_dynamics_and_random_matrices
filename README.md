@@ -1,2 +1,5 @@
-# neural_networks_dynamics_and_random_matrices
+# Neural Networks Dynamics and the Theory of Random Matrices
 Studies in Neural Network dynamics utilizing random matrices theory and stochastic calculus
+
+## Brownian Motion
+
