@@ -9,3 +9,4 @@ literature/brownian_motion/2016_Brownian_Motion_Martingales_and_Stochastic_Calcu
 literature/brownian_motion/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf filter=lfs diff=lfs merge=lfs -text
 literature/brownian_motion/Diffusion_Processes_and_Stochastic_Calculus_Boudoin_2019.pdf filter=lfs diff=lfs merge=lfs -text
 literature/neural_networkds_dynamics/From_SGD_to_Spectra-A_Theory_of_Neural_Network_Weight_Dynamics_Olsen_2026.pdf filter=lfs diff=lfs merge=lfs -text
+literature/neural_networks_dynamics/Exact_solutions_to_the_nonlinear_dynamics_of_learning_in_deep_linear_neural_networks_Saxe_2013.pdf filter=lfs diff=lfs merge=lfs -text
